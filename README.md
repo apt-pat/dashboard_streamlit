@@ -1,4 +1,4 @@
-# Dashboard de Vendas :shopping_trolley:
+# Dashboard de Vendas 
 
 Este repositório contém um **Dashboard Interativo de Vendas** criado com [Streamlit](https://streamlit.io/). Ele permite visualizar e explorar um conjunto de dados fictício sobre vendas, fornecendo métricas, gráficos e a capacidade de filtrar dados por região.
 
